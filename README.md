@@ -1,2 +1,2 @@
 # Proffy
- Nodejs, React and RN with typescript
+ Nodejs, React and React Native with typescript
